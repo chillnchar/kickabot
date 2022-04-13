@@ -7,4 +7,4 @@ Just BTW: There are no commands.
 
 In case you're wondering why no permissions are requested, it's because it doesn't need permissions! There are no commands.
 
-If you wanted a commands bot, go check out [Dragonkind](https://dragonkind-discord.github.io)
+If you wanted a commands bot, go check out [Dragonkind](https://dragonkind-discord.github.io/dragonkind)
